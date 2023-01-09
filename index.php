@@ -11,5 +11,10 @@
 <h1>hallo bro</h1>
 <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Itaque corrupti doloremque vitae voluptate minus dolor maxime repellat unde deleniti nisi!</p>
 
+<ul>
+    <li>satu</li>
+    <li>dua</li>
+</ul>
+
 </body>
 </html>
